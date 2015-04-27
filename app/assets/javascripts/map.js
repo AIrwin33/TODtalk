@@ -5,7 +5,4 @@ $(document).ready(function(){
 	var map = L.mapbox.map('map', 'airwin33.lna4fkd1').locate({setView: false, maxZoom: 14});
 
 
-
-
-
 });

@@ -477,3 +477,2271 @@ Started GET "/assets/map-24f1c909f8bfd4db03cd766fad545e66.js?body=1" for ::1 at 
 
 
 Started GET "/assets/application-639cb205a9543666737986b0a689df53.js?body=1" for ::1 at 2015-04-25 11:46:26 -0500
+
+
+Started GET "/" for ::1 at 2015-04-25 11:52:49 -0500
+  [1m[36mActiveRecord::SchemaMigration Load (0.6ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (82.4ms)
+Completed 200 OK in 437ms (Views: 400.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-9b4518f27f4c3acb33f1cf0e83ecdd82.css?body=1" for ::1 at 2015-04-25 11:52:50 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-25 11:52:50 -0500
+
+
+Started GET "/assets/map-2f7dc564f0f53d9b71191595a67c1f96.js?body=1" for ::1 at 2015-04-25 11:52:50 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-25 11:52:50 -0500
+
+
+Started GET "/assets/application-d2bb8aaec06491dc209c6a7f3664a6f2.js?body=1" for ::1 at 2015-04-25 11:52:50 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-25 11:52:50 -0500
+
+
+Started GET "/assets/map-ae6498ab0ce78caf64fedd248dea5bd6.css?body=1" for ::1 at 2015-04-25 11:52:50 -0500
+
+
+Started GET "/" for ::1 at 2015-04-25 12:00:32 -0500
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 439ms (Views: 438.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-5abb5629fede44303bfa9f1235bd6d53.js?body=1" for ::1 at 2015-04-25 12:00:32 -0500
+
+
+Started GET "/assets/map-cd6d6363d82fad585506b66e99d46cbf.js?body=1" for ::1 at 2015-04-25 12:00:32 -0500
+
+
+Started GET "/assets/application-9b4518f27f4c3acb33f1cf0e83ecdd82.css?body=1" for ::1 at 2015-04-25 12:00:32 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-25 12:00:32 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-25 12:00:32 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-25 12:00:32 -0500
+
+
+Started GET "/assets/map-ae6498ab0ce78caf64fedd248dea5bd6.css?body=1" for ::1 at 2015-04-25 12:00:32 -0500
+
+
+Started GET "/" for ::1 at 2015-04-25 12:01:24 -0500
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 282ms (Views: 280.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-9b4518f27f4c3acb33f1cf0e83ecdd82.css?body=1" for ::1 at 2015-04-25 12:01:24 -0500
+
+
+Started GET "/assets/map-ae6498ab0ce78caf64fedd248dea5bd6.css?body=1" for ::1 at 2015-04-25 12:01:25 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-25 12:01:25 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-25 12:01:25 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-25 12:01:25 -0500
+
+
+Started GET "/assets/map-6750cfc7f12631c6d909845cf280db87.js?body=1" for ::1 at 2015-04-25 12:01:25 -0500
+
+
+Started GET "/assets/application-2d88be1f809bd6a3f68320f1ca94c370.js?body=1" for ::1 at 2015-04-25 12:01:25 -0500
+
+
+Started GET "/" for ::1 at 2015-04-25 12:11:25 -0500
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 275ms (Views: 274.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-25 12:11:25 -0500
+
+
+Started GET "/assets/application-9b4518f27f4c3acb33f1cf0e83ecdd82.css?body=1" for ::1 at 2015-04-25 12:11:25 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-25 12:11:25 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-25 12:11:25 -0500
+
+
+Started GET "/assets/application-b752b32509a8ebd2411ef041e42275bd.js?body=1" for ::1 at 2015-04-25 12:11:25 -0500
+
+
+Started GET "/assets/map-deaaa0af7ec15e40a3f83554a477ed1a.js?body=1" for ::1 at 2015-04-25 12:11:25 -0500
+
+
+Started GET "/assets/map-ae6498ab0ce78caf64fedd248dea5bd6.css?body=1" for ::1 at 2015-04-25 12:11:25 -0500
+
+
+Started GET "/assets/application-9b4518f27f4c3acb33f1cf0e83ecdd82.css?body=1" for ::1 at 2015-04-25 12:11:40 -0500
+
+
+Started GET "/assets/map-ae6498ab0ce78caf64fedd248dea5bd6.css?body=1" for ::1 at 2015-04-25 12:11:40 -0500
+
+
+Started GET "/" for ::1 at 2015-04-25 12:12:02 -0500
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 82ms (Views: 80.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/map-ae6498ab0ce78caf64fedd248dea5bd6.css?body=1" for ::1 at 2015-04-25 12:12:03 -0500
+
+
+Started GET "/assets/application-9b4518f27f4c3acb33f1cf0e83ecdd82.css?body=1" for ::1 at 2015-04-25 12:12:03 -0500
+
+
+Started GET "/assets/map-deaaa0af7ec15e40a3f83554a477ed1a.js?body=1" for ::1 at 2015-04-25 12:12:03 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-25 12:12:03 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-25 12:12:03 -0500
+
+
+Started GET "/assets/application-b752b32509a8ebd2411ef041e42275bd.js?body=1" for ::1 at 2015-04-25 12:12:03 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-25 12:12:03 -0500
+
+
+Started GET "/" for ::1 at 2015-04-25 12:21:34 -0500
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 156ms (Views: 155.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-9b4518f27f4c3acb33f1cf0e83ecdd82.css?body=1" for ::1 at 2015-04-25 12:21:34 -0500
+
+
+Started GET "/assets/map-deaaa0af7ec15e40a3f83554a477ed1a.js?body=1" for ::1 at 2015-04-25 12:21:34 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-25 12:21:34 -0500
+
+
+Started GET "/assets/map-ae6498ab0ce78caf64fedd248dea5bd6.css?body=1" for ::1 at 2015-04-25 12:21:34 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-25 12:21:34 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-25 12:21:34 -0500
+
+
+Started GET "/assets/application-b752b32509a8ebd2411ef041e42275bd.js?body=1" for ::1 at 2015-04-25 12:21:34 -0500
+
+
+Started GET "/assets/map-ae6498ab0ce78caf64fedd248dea5bd6.css?body=1" for ::1 at 2015-04-25 12:23:47 -0500
+
+
+Started GET "/assets/application-9b4518f27f4c3acb33f1cf0e83ecdd82.css?body=1" for ::1 at 2015-04-25 12:23:47 -0500
+
+
+Started GET "/" for ::1 at 2015-04-25 12:23:59 -0500
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 170ms (Views: 169.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/map-ae6498ab0ce78caf64fedd248dea5bd6.css?body=1" for ::1 at 2015-04-25 12:24:00 -0500
+
+
+Started GET "/assets/application-9b4518f27f4c3acb33f1cf0e83ecdd82.css?body=1" for ::1 at 2015-04-25 12:24:00 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-25 12:24:00 -0500
+
+
+Started GET "/assets/application-b752b32509a8ebd2411ef041e42275bd.js?body=1" for ::1 at 2015-04-25 12:24:00 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-25 12:24:00 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-25 12:24:00 -0500
+
+
+Started GET "/assets/map-deaaa0af7ec15e40a3f83554a477ed1a.js?body=1" for ::1 at 2015-04-25 12:24:00 -0500
+
+
+Started GET "/" for ::1 at 2015-04-25 12:26:45 -0500
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 319ms (Views: 317.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/map-ae6498ab0ce78caf64fedd248dea5bd6.css?body=1" for ::1 at 2015-04-25 12:26:46 -0500
+
+
+Started GET "/assets/application-9b4518f27f4c3acb33f1cf0e83ecdd82.css?body=1" for ::1 at 2015-04-25 12:26:46 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-25 12:26:46 -0500
+
+
+Started GET "/assets/map-ff5c101f26f0c5d94c1d4df9fbb3e252.js?body=1" for ::1 at 2015-04-25 12:26:46 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-25 12:26:46 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-25 12:26:46 -0500
+
+
+Started GET "/assets/application-db88dda4d3e8eb2489546e5b28981bc6.js?body=1" for ::1 at 2015-04-25 12:26:46 -0500
+
+
+Started GET "/" for ::1 at 2015-04-25 12:30:30 -0500
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 233ms (Views: 232.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-9b4518f27f4c3acb33f1cf0e83ecdd82.css?body=1" for ::1 at 2015-04-25 12:30:31 -0500
+
+
+Started GET "/assets/application-db88dda4d3e8eb2489546e5b28981bc6.js?body=1" for ::1 at 2015-04-25 12:30:31 -0500
+
+
+Started GET "/assets/map-ae6498ab0ce78caf64fedd248dea5bd6.css?body=1" for ::1 at 2015-04-25 12:30:31 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-25 12:30:31 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-25 12:30:31 -0500
+
+
+Started GET "/assets/map-ff5c101f26f0c5d94c1d4df9fbb3e252.js?body=1" for ::1 at 2015-04-25 12:30:31 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-25 12:30:31 -0500
+
+
+Started GET "/" for ::1 at 2015-04-25 13:01:23 -0500
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 264ms (Views: 263.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-25 13:01:24 -0500
+
+
+Started GET "/assets/application-9b4518f27f4c3acb33f1cf0e83ecdd82.css?body=1" for ::1 at 2015-04-25 13:01:24 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-25 13:01:24 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-25 13:01:24 -0500
+
+
+Started GET "/assets/map-ae6498ab0ce78caf64fedd248dea5bd6.css?body=1" for ::1 at 2015-04-25 13:01:24 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-25 13:01:24 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-25 13:01:25 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-25 13:01:25 -0500
+
+
+Started GET "/" for ::1 at 2015-04-25 13:06:57 -0500
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (25.6ms)
+Completed 500 Internal Server Error in 46ms
+
+ActionView::Template::Error (Asset filtered out and will not be served: add `Rails.application.config.assets.precompile += %w( map.js )` to `config/initializers/assets.rb` and restart your server):
+    4: </div>
+    5: 
+    6: <div id="map"></div>
+    7: <%= javascript_include_tag 'map' %>
+  app/views/postits/map.html.erb:7:in `_app_views_postits_map_html_erb___1089619190480567397_70207412395640'
+
+
+  Rendered /Users/jamesirwin/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (13.4ms)
+  Rendered /Users/jamesirwin/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (4.8ms)
+  Rendered /Users/jamesirwin/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.7ms)
+  Rendered /Users/jamesirwin/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (51.4ms)
+  Rendered /Users/jamesirwin/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/_markup.html.erb (0.6ms)
+  Rendered /Users/jamesirwin/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.5ms)
+  Rendered /Users/jamesirwin/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.6ms)
+  Rendered /Users/jamesirwin/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /Users/jamesirwin/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/console.js.erb within layouts/javascript (36.8ms)
+  Rendered /Users/jamesirwin/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/main.js.erb within layouts/javascript (0.5ms)
+  Rendered /Users/jamesirwin/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.7ms)
+  Rendered /Users/jamesirwin/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/index.html.erb (101.6ms)
+
+
+Started GET "/" for ::1 at 2015-04-25 13:07:58 -0500
+  [1m[36mActiveRecord::SchemaMigration Load (30.7ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (40.5ms)
+Completed 500 Internal Server Error in 110ms
+
+ActionView::Template::Error (Asset filtered out and will not be served: add `Rails.application.config.assets.precompile += %w( map.js )` to `config/initializers/assets.rb` and restart your server):
+    4: </div>
+    5: 
+    6: <div id="map"></div>
+    7: <%= javascript_include_tag 'map' %>
+  app/views/postits/map.html.erb:7:in `_app_views_postits_map_html_erb___1604767955685933713_70183550612360'
+
+
+  Rendered /Users/jamesirwin/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (14.1ms)
+  Rendered /Users/jamesirwin/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (6.2ms)
+  Rendered /Users/jamesirwin/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.6ms)
+  Rendered /Users/jamesirwin/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (59.4ms)
+  Rendered /Users/jamesirwin/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/_markup.html.erb (0.7ms)
+  Rendered /Users/jamesirwin/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.6ms)
+  Rendered /Users/jamesirwin/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.6ms)
+  Rendered /Users/jamesirwin/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.6ms)
+  Rendered /Users/jamesirwin/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/console.js.erb within layouts/javascript (51.3ms)
+  Rendered /Users/jamesirwin/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/main.js.erb within layouts/javascript (0.6ms)
+  Rendered /Users/jamesirwin/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.7ms)
+  Rendered /Users/jamesirwin/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/index.html.erb (104.6ms)
+
+
+Started GET "/" for ::1 at 2015-04-25 13:08:54 -0500
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (15.9ms)
+Completed 200 OK in 315ms (Views: 299.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-9b4518f27f4c3acb33f1cf0e83ecdd82.css?body=1" for ::1 at 2015-04-25 13:08:55 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-25 13:08:55 -0500
+
+
+Started GET "/assets/application-db88dda4d3e8eb2489546e5b28981bc6.js?body=1" for ::1 at 2015-04-25 13:08:55 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-25 13:08:55 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-25 13:08:55 -0500
+
+
+Started GET "/assets/map-ae6498ab0ce78caf64fedd248dea5bd6.css?body=1" for ::1 at 2015-04-25 13:08:55 -0500
+
+
+Started GET "/assets/map-ff5c101f26f0c5d94c1d4df9fbb3e252.js?body=1" for ::1 at 2015-04-25 13:08:55 -0500
+
+
+Started GET "/" for ::1 at 2015-04-25 13:15:30 -0500
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (10.9ms)
+Completed 200 OK in 77ms (Views: 75.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/map-ae6498ab0ce78caf64fedd248dea5bd6.css?body=1" for ::1 at 2015-04-25 13:15:30 -0500
+
+
+Started GET "/assets/application-9b4518f27f4c3acb33f1cf0e83ecdd82.css?body=1" for ::1 at 2015-04-25 13:15:30 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-25 13:15:30 -0500
+
+
+Started GET "/assets/map-ff5c101f26f0c5d94c1d4df9fbb3e252.js?body=1" for ::1 at 2015-04-25 13:15:30 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-25 13:15:30 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-25 13:15:30 -0500
+
+
+Started GET "/assets/application-db88dda4d3e8eb2489546e5b28981bc6.js?body=1" for ::1 at 2015-04-25 13:15:30 -0500
+
+
+Started GET "/" for ::1 at 2015-04-25 17:55:37 -0500
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (119.7ms)
+Completed 200 OK in 642ms (Views: 614.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/map-ea3baf9b5b80d1bed6c31fca359bf646.css?body=1" for ::1 at 2015-04-25 17:55:39 -0500
+
+
+Started GET "/assets/map-ff5c101f26f0c5d94c1d4df9fbb3e252.js?body=1" for ::1 at 2015-04-25 17:55:39 -0500
+
+
+Started GET "/assets/application-59c46a38a835cd7dd4c3d564470318be.css?body=1" for ::1 at 2015-04-25 17:55:39 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-25 17:55:39 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-25 17:55:39 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-25 17:55:39 -0500
+
+
+Started GET "/assets/application-db88dda4d3e8eb2489546e5b28981bc6.js?body=1" for ::1 at 2015-04-25 17:55:39 -0500
+
+
+Started GET "/" for ::1 at 2015-04-25 17:55:52 -0500
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (9.8ms)
+Completed 200 OK in 186ms (Views: 183.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-25 17:55:52 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-25 17:55:52 -0500
+
+
+Started GET "/assets/map-ff5c101f26f0c5d94c1d4df9fbb3e252.js?body=1" for ::1 at 2015-04-25 17:55:52 -0500
+
+
+Started GET "/assets/application-fc4ff70576a57c9d681bda47e0f25348.css?body=1" for ::1 at 2015-04-25 17:55:52 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-25 17:55:52 -0500
+
+
+Started GET "/assets/application-db88dda4d3e8eb2489546e5b28981bc6.js?body=1" for ::1 at 2015-04-25 17:55:52 -0500
+
+
+Started GET "/assets/map-1e4836b15320851fd443bed8a89683ca.css?body=1" for ::1 at 2015-04-25 17:55:52 -0500
+
+
+Started GET "/" for ::1 at 2015-04-25 17:56:09 -0500
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (85.2ms)
+Completed 200 OK in 258ms (Views: 256.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-ed7cb042de7929213dc298e561bb0f62.css?body=1" for ::1 at 2015-04-25 17:56:10 -0500
+
+
+Started GET "/assets/map-4e23bf5bbc1abb676cac7b525dd8c160.css?body=1" for ::1 at 2015-04-25 17:56:10 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-25 17:56:10 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-25 17:56:10 -0500
+
+
+Started GET "/assets/map-ff5c101f26f0c5d94c1d4df9fbb3e252.js?body=1" for ::1 at 2015-04-25 17:56:10 -0500
+
+
+Started GET "/assets/application-db88dda4d3e8eb2489546e5b28981bc6.js?body=1" for ::1 at 2015-04-25 17:56:10 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-25 17:56:10 -0500
+
+
+Started GET "/" for ::1 at 2015-04-25 17:56:30 -0500
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (8.9ms)
+Completed 200 OK in 176ms (Views: 175.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-6dad77dae94c8cc1cd3220dc85a3f4ca.css?body=1" for ::1 at 2015-04-25 17:56:30 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-25 17:56:30 -0500
+
+
+Started GET "/assets/map-fdb52dadaa0888e7a88b4cbdcfa55191.css?body=1" for ::1 at 2015-04-25 17:56:30 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-25 17:56:30 -0500
+
+
+Started GET "/assets/map-ff5c101f26f0c5d94c1d4df9fbb3e252.js?body=1" for ::1 at 2015-04-25 17:56:30 -0500
+
+
+Started GET "/assets/application-db88dda4d3e8eb2489546e5b28981bc6.js?body=1" for ::1 at 2015-04-25 17:56:30 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-25 17:56:30 -0500
+
+
+Started GET "/" for ::1 at 2015-04-26 11:27:05 -0500
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (133.2ms)
+Completed 200 OK in 635ms (Views: 593.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/map-763a07142fe4cb2cc32848362388c2b3.css?body=1" for ::1 at 2015-04-26 11:27:08 -0500
+
+
+Started GET "/assets/application-6cccfaa837033dbee48779e2755da99b.css?body=1" for ::1 at 2015-04-26 11:27:08 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-26 11:27:08 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-26 11:27:08 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-26 11:27:08 -0500
+
+
+Started GET "/assets/map-ff5c101f26f0c5d94c1d4df9fbb3e252.js?body=1" for ::1 at 2015-04-26 11:27:08 -0500
+
+
+Started GET "/assets/application-db88dda4d3e8eb2489546e5b28981bc6.js?body=1" for ::1 at 2015-04-26 11:27:08 -0500
+
+
+Started GET "/" for ::1 at 2015-04-26 11:32:52 -0500
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (56.7ms)
+Completed 200 OK in 372ms (Views: 370.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-6cccfaa837033dbee48779e2755da99b.css?body=1" for ::1 at 2015-04-26 11:32:53 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-26 11:32:53 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-26 11:32:53 -0500
+
+
+Started GET "/assets/map-a89c48ec38ca916c8fb2e08fdee76eee.js?body=1" for ::1 at 2015-04-26 11:32:53 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-26 11:32:53 -0500
+
+
+Started GET "/assets/application-9bf3fd4d670bb7ebb5c4ceb8a482c134.js?body=1" for ::1 at 2015-04-26 11:32:53 -0500
+
+
+Started GET "/assets/map-763a07142fe4cb2cc32848362388c2b3.css?body=1" for ::1 at 2015-04-26 11:32:53 -0500
+
+
+Started GET "/assets/application-6cccfaa837033dbee48779e2755da99b.css?body=1" for ::1 at 2015-04-26 11:33:02 -0500
+
+
+Started GET "/assets/map-763a07142fe4cb2cc32848362388c2b3.css?body=1" for ::1 at 2015-04-26 11:33:02 -0500
+
+
+Started GET "/" for ::1 at 2015-04-26 11:55:42 -0500
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (13.2ms)
+Completed 200 OK in 82ms (Views: 81.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-6cccfaa837033dbee48779e2755da99b.css?body=1" for ::1 at 2015-04-26 11:55:42 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-26 11:55:42 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-26 11:55:42 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-26 11:55:42 -0500
+
+
+Started GET "/assets/map-a89c48ec38ca916c8fb2e08fdee76eee.js?body=1" for ::1 at 2015-04-26 11:55:42 -0500
+
+
+Started GET "/assets/application-9bf3fd4d670bb7ebb5c4ceb8a482c134.js?body=1" for ::1 at 2015-04-26 11:55:42 -0500
+
+
+Started GET "/assets/map-763a07142fe4cb2cc32848362388c2b3.css?body=1" for ::1 at 2015-04-26 11:55:42 -0500
+
+
+Started GET "/" for ::1 at 2015-04-26 12:12:00 -0500
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (10.5ms)
+Completed 200 OK in 227ms (Views: 226.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-26 12:12:00 -0500
+
+
+Started GET "/assets/application-6cccfaa837033dbee48779e2755da99b.css?body=1" for ::1 at 2015-04-26 12:12:00 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-26 12:12:00 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-26 12:12:00 -0500
+
+
+Started GET "/assets/application-9bf3fd4d670bb7ebb5c4ceb8a482c134.js?body=1" for ::1 at 2015-04-26 12:12:00 -0500
+
+
+Started GET "/assets/map-a89c48ec38ca916c8fb2e08fdee76eee.js?body=1" for ::1 at 2015-04-26 12:12:00 -0500
+
+
+Started GET "/assets/map-763a07142fe4cb2cc32848362388c2b3.css?body=1" for ::1 at 2015-04-26 12:12:00 -0500
+
+
+Started GET "/" for ::1 at 2015-04-26 14:37:28 -0500
+  [1m[36mActiveRecord::SchemaMigration Load (0.6ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (97.2ms)
+Completed 200 OK in 8851ms (Views: 8816.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/map-763a07142fe4cb2cc32848362388c2b3.css?body=1" for ::1 at 2015-04-26 14:37:38 -0500
+
+
+Started GET "/assets/map-a89c48ec38ca916c8fb2e08fdee76eee.js?body=1" for ::1 at 2015-04-26 14:37:38 -0500
+
+
+Started GET "/assets/application-aeb40784716c07d00aa420a14a99653c.css?body=1" for ::1 at 2015-04-26 14:37:38 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-26 14:37:38 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-26 14:37:38 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-26 14:37:38 -0500
+
+
+Started GET "/assets/application-9bf3fd4d670bb7ebb5c4ceb8a482c134.js?body=1" for ::1 at 2015-04-26 14:37:38 -0500
+
+
+Started GET "/assets/custom-ee8182bcd24841406b32fb870ec8ac6b.css?body=1" for ::1 at 2015-04-26 14:37:38 -0500
+
+
+Started GET "/" for ::1 at 2015-04-26 14:40:00 -0500
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (27.9ms)
+Completed 200 OK in 142ms (Views: 141.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/map-763a07142fe4cb2cc32848362388c2b3.css?body=1" for ::1 at 2015-04-26 14:40:01 -0500
+
+
+Started GET "/assets/application-aeb40784716c07d00aa420a14a99653c.css?body=1" for ::1 at 2015-04-26 14:40:01 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-26 14:40:01 -0500
+
+
+Started GET "/assets/map-a89c48ec38ca916c8fb2e08fdee76eee.js?body=1" for ::1 at 2015-04-26 14:40:01 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-26 14:40:01 -0500
+
+
+Started GET "/assets/application-9bf3fd4d670bb7ebb5c4ceb8a482c134.js?body=1" for ::1 at 2015-04-26 14:40:01 -0500
+
+
+Started GET "/assets/custom-ee8182bcd24841406b32fb870ec8ac6b.css?body=1" for ::1 at 2015-04-26 14:40:01 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-26 14:40:01 -0500
+
+
+Started GET "/" for ::1 at 2015-04-26 14:40:43 -0500
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (20.0ms)
+Completed 200 OK in 137ms (Views: 135.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/map-763a07142fe4cb2cc32848362388c2b3.css?body=1" for ::1 at 2015-04-26 14:40:44 -0500
+
+
+Started GET "/assets/application-aeb40784716c07d00aa420a14a99653c.css?body=1" for ::1 at 2015-04-26 14:40:44 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-26 14:40:44 -0500
+
+
+Started GET "/assets/custom-ee8182bcd24841406b32fb870ec8ac6b.css?body=1" for ::1 at 2015-04-26 14:40:44 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-26 14:40:44 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-26 14:40:44 -0500
+
+
+Started GET "/assets/map-a89c48ec38ca916c8fb2e08fdee76eee.js?body=1" for ::1 at 2015-04-26 14:40:44 -0500
+
+
+Started GET "/assets/application-9bf3fd4d670bb7ebb5c4ceb8a482c134.js?body=1" for ::1 at 2015-04-26 14:40:44 -0500
+
+
+Started GET "/" for ::1 at 2015-04-26 14:41:23 -0500
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (22.3ms)
+Completed 200 OK in 411ms (Views: 409.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-ee8182bcd24841406b32fb870ec8ac6b.css?body=1" for ::1 at 2015-04-26 14:41:24 -0500
+
+
+Started GET "/assets/map-a89c48ec38ca916c8fb2e08fdee76eee.js?body=1" for ::1 at 2015-04-26 14:41:24 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-26 14:41:24 -0500
+
+
+Started GET "/assets/application-001c0e399bb859d18238870b4491d273.css?body=1" for ::1 at 2015-04-26 14:41:24 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-26 14:41:24 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-26 14:41:24 -0500
+
+
+Started GET "/assets/application-9bf3fd4d670bb7ebb5c4ceb8a482c134.js?body=1" for ::1 at 2015-04-26 14:41:24 -0500
+
+
+Started GET "/assets/map-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-04-26 14:41:24 -0500
+
+
+Started GET "/" for ::1 at 2015-04-26 14:42:13 -0500
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (11.7ms)
+Completed 200 OK in 260ms (Views: 258.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/map-b5d7cc1ea2f62b05d79d6bd18b9b9762.css?body=1" for ::1 at 2015-04-26 14:42:14 -0500
+
+
+Started GET "/assets/application-b68553ce493e1d1d0dc0450ee46b6089.css?body=1" for ::1 at 2015-04-26 14:42:14 -0500
+
+
+Started GET "/assets/custom-ee8182bcd24841406b32fb870ec8ac6b.css?body=1" for ::1 at 2015-04-26 14:42:14 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-26 14:42:14 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-26 14:42:14 -0500
+
+
+Started GET "/assets/map-a89c48ec38ca916c8fb2e08fdee76eee.js?body=1" for ::1 at 2015-04-26 14:42:14 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-26 14:42:14 -0500
+
+
+Started GET "/assets/application-9bf3fd4d670bb7ebb5c4ceb8a482c134.js?body=1" for ::1 at 2015-04-26 14:42:14 -0500
+
+
+Started GET "/" for ::1 at 2015-04-26 14:42:28 -0500
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (21.0ms)
+Completed 200 OK in 277ms (Views: 276.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/map-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-04-26 14:42:29 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-26 14:42:29 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-26 14:42:29 -0500
+
+
+Started GET "/assets/application-001c0e399bb859d18238870b4491d273.css?body=1" for ::1 at 2015-04-26 14:42:29 -0500
+
+
+Started GET "/assets/map-a89c48ec38ca916c8fb2e08fdee76eee.js?body=1" for ::1 at 2015-04-26 14:42:29 -0500
+
+
+Started GET "/assets/application-9bf3fd4d670bb7ebb5c4ceb8a482c134.js?body=1" for ::1 at 2015-04-26 14:42:29 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-26 14:42:29 -0500
+
+
+Started GET "/assets/custom-ee8182bcd24841406b32fb870ec8ac6b.css?body=1" for ::1 at 2015-04-26 14:42:29 -0500
+
+
+Started GET "/" for ::1 at 2015-04-26 14:51:27 -0500
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (107.2ms)
+Completed 200 OK in 366ms (Views: 365.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/map-ae6498ab0ce78caf64fedd248dea5bd6.css?body=1" for ::1 at 2015-04-26 14:51:27 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-26 14:51:27 -0500
+
+
+Started GET "/assets/application-9bf3fd4d670bb7ebb5c4ceb8a482c134.js?body=1" for ::1 at 2015-04-26 14:51:27 -0500
+
+
+Started GET "/assets/application-f4e79b158d68898073e32ab6fcc10aa0.css?body=1" for ::1 at 2015-04-26 14:51:27 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-26 14:51:28 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-26 14:51:28 -0500
+
+
+Started GET "/assets/map-a89c48ec38ca916c8fb2e08fdee76eee.js?body=1" for ::1 at 2015-04-26 14:51:28 -0500
+
+
+Started GET "/assets/custom-ee8182bcd24841406b32fb870ec8ac6b.css?body=1" for ::1 at 2015-04-26 14:51:28 -0500
+
+
+Started GET "/" for ::1 at 2015-04-26 14:51:47 -0500
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (11.3ms)
+Completed 200 OK in 346ms (Views: 345.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-ee8182bcd24841406b32fb870ec8ac6b.css?body=1" for ::1 at 2015-04-26 14:51:48 -0500
+
+
+Started GET "/assets/map-bbe980f7a96b2232a6f82efc3f8aa2f5.css?body=1" for ::1 at 2015-04-26 14:51:48 -0500
+
+
+Started GET "/assets/application-fce6bb3efe0370d023bb8e55a46a48f8.css?body=1" for ::1 at 2015-04-26 14:51:48 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-26 14:51:48 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-26 14:51:48 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-26 14:51:48 -0500
+
+
+Started GET "/assets/map-a89c48ec38ca916c8fb2e08fdee76eee.js?body=1" for ::1 at 2015-04-26 14:51:48 -0500
+
+
+Started GET "/assets/application-9bf3fd4d670bb7ebb5c4ceb8a482c134.js?body=1" for ::1 at 2015-04-26 14:51:48 -0500
+
+
+Started GET "/" for ::1 at 2015-04-26 14:54:27 -0500
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (17.6ms)
+Completed 200 OK in 291ms (Views: 290.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/map-8a1daba80191a2910353913a65da8edf.css?body=1" for ::1 at 2015-04-26 14:54:27 -0500
+
+
+Started GET "/assets/application-42b4d2fb7bd5eae44a29c6c031d7172b.css?body=1" for ::1 at 2015-04-26 14:54:27 -0500
+
+
+Started GET "/assets/map-a89c48ec38ca916c8fb2e08fdee76eee.js?body=1" for ::1 at 2015-04-26 14:54:28 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-26 14:54:28 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-26 14:54:28 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-26 14:54:28 -0500
+
+
+Started GET "/assets/custom-ee8182bcd24841406b32fb870ec8ac6b.css?body=1" for ::1 at 2015-04-26 14:54:28 -0500
+
+
+Started GET "/assets/application-9bf3fd4d670bb7ebb5c4ceb8a482c134.js?body=1" for ::1 at 2015-04-26 14:54:28 -0500
+
+
+Started GET "/" for ::1 at 2015-04-26 15:07:28 -0500
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (13.1ms)
+Completed 200 OK in 264ms (Views: 263.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/map-5ad3bd3f3ea9277c4788bf96b5de112a.css?body=1" for ::1 at 2015-04-26 15:07:28 -0500
+
+
+Started GET "/assets/application-45f140a261be1227ddee5fd419a6e3f6.css?body=1" for ::1 at 2015-04-26 15:07:28 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-26 15:07:28 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-26 15:07:28 -0500
+
+
+Started GET "/assets/map-a89c48ec38ca916c8fb2e08fdee76eee.js?body=1" for ::1 at 2015-04-26 15:07:28 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-26 15:07:28 -0500
+
+
+Started GET "/assets/application-9bf3fd4d670bb7ebb5c4ceb8a482c134.js?body=1" for ::1 at 2015-04-26 15:07:28 -0500
+
+
+Started GET "/assets/custom-ee8182bcd24841406b32fb870ec8ac6b.css?body=1" for ::1 at 2015-04-26 15:07:28 -0500
+
+
+Started GET "/" for ::1 at 2015-04-26 15:10:28 -0500
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (15.4ms)
+Completed 200 OK in 117ms (Views: 115.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-ee8182bcd24841406b32fb870ec8ac6b.css?body=1" for ::1 at 2015-04-26 15:10:29 -0500
+
+
+Started GET "/assets/map-5ad3bd3f3ea9277c4788bf96b5de112a.css?body=1" for ::1 at 2015-04-26 15:10:29 -0500
+
+
+Started GET "/assets/application-45f140a261be1227ddee5fd419a6e3f6.css?body=1" for ::1 at 2015-04-26 15:10:29 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-26 15:10:29 -0500
+
+
+Started GET "/assets/map-a89c48ec38ca916c8fb2e08fdee76eee.js?body=1" for ::1 at 2015-04-26 15:10:29 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-26 15:10:29 -0500
+
+
+Started GET "/assets/application-9bf3fd4d670bb7ebb5c4ceb8a482c134.js?body=1" for ::1 at 2015-04-26 15:10:29 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-26 15:10:29 -0500
+
+
+Started GET "/" for ::1 at 2015-04-26 15:10:43 -0500
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (12.7ms)
+Completed 200 OK in 214ms (Views: 212.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/map-5ad3bd3f3ea9277c4788bf96b5de112a.css?body=1" for ::1 at 2015-04-26 15:10:43 -0500
+
+
+Started GET "/assets/custom-ee8182bcd24841406b32fb870ec8ac6b.css?body=1" for ::1 at 2015-04-26 15:10:43 -0500
+
+
+Started GET "/assets/application-45f140a261be1227ddee5fd419a6e3f6.css?body=1" for ::1 at 2015-04-26 15:10:43 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-26 15:10:43 -0500
+
+
+Started GET "/assets/map-a89c48ec38ca916c8fb2e08fdee76eee.js?body=1" for ::1 at 2015-04-26 15:10:43 -0500
+
+
+Started GET "/assets/application-9bf3fd4d670bb7ebb5c4ceb8a482c134.js?body=1" for ::1 at 2015-04-26 15:10:43 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-26 15:10:43 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-26 15:10:43 -0500
+
+
+Started GET "/" for ::1 at 2015-04-26 15:11:57 -0500
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (11.7ms)
+Completed 200 OK in 310ms (Views: 308.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-ee8182bcd24841406b32fb870ec8ac6b.css?body=1" for ::1 at 2015-04-26 15:11:58 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-26 15:11:58 -0500
+
+
+Started GET "/assets/application-b7636a425b954782e3495fd8907076c0.css?body=1" for ::1 at 2015-04-26 15:11:58 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-26 15:11:58 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-26 15:11:58 -0500
+
+
+Started GET "/assets/map-a89c48ec38ca916c8fb2e08fdee76eee.js?body=1" for ::1 at 2015-04-26 15:11:58 -0500
+
+
+Started GET "/assets/application-9bf3fd4d670bb7ebb5c4ceb8a482c134.js?body=1" for ::1 at 2015-04-26 15:11:58 -0500
+
+
+Started GET "/assets/map-df2df5d34f7c33ff53ad54c3676e1566.css?body=1" for ::1 at 2015-04-26 15:11:58 -0500
+
+
+Started GET "/" for ::1 at 2015-04-26 15:16:19 -0500
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (18.0ms)
+Completed 200 OK in 529ms (Views: 528.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/map-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-04-26 15:16:20 -0500
+
+
+Started GET "/assets/custom-ee8182bcd24841406b32fb870ec8ac6b.css?body=1" for ::1 at 2015-04-26 15:16:20 -0500
+
+
+Started GET "/assets/application-001c0e399bb859d18238870b4491d273.css?body=1" for ::1 at 2015-04-26 15:16:20 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-26 15:16:20 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-26 15:16:20 -0500
+
+
+Started GET "/assets/map-a89c48ec38ca916c8fb2e08fdee76eee.js?body=1" for ::1 at 2015-04-26 15:16:20 -0500
+
+
+Started GET "/assets/application-9bf3fd4d670bb7ebb5c4ceb8a482c134.js?body=1" for ::1 at 2015-04-26 15:16:20 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-26 15:16:20 -0500
+
+
+Started GET "/" for ::1 at 2015-04-26 15:17:08 -0500
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (14.5ms)
+Completed 200 OK in 223ms (Views: 221.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-ee8182bcd24841406b32fb870ec8ac6b.css?body=1" for ::1 at 2015-04-26 15:17:08 -0500
+
+
+Started GET "/assets/map-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-04-26 15:17:08 -0500
+
+
+Started GET "/assets/application-001c0e399bb859d18238870b4491d273.css?body=1" for ::1 at 2015-04-26 15:17:08 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-26 15:17:08 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-26 15:17:08 -0500
+
+
+Started GET "/assets/map-a89c48ec38ca916c8fb2e08fdee76eee.js?body=1" for ::1 at 2015-04-26 15:17:08 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-26 15:17:08 -0500
+
+
+Started GET "/assets/application-9bf3fd4d670bb7ebb5c4ceb8a482c134.js?body=1" for ::1 at 2015-04-26 15:17:08 -0500
+
+
+Started GET "/" for ::1 at 2015-04-26 15:17:33 -0500
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (12.7ms)
+Completed 200 OK in 220ms (Views: 218.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/map-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-04-26 15:17:33 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-26 15:17:33 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-26 15:17:33 -0500
+
+
+Started GET "/assets/application-001c0e399bb859d18238870b4491d273.css?body=1" for ::1 at 2015-04-26 15:17:33 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-26 15:17:33 -0500
+
+
+Started GET "/assets/map-a89c48ec38ca916c8fb2e08fdee76eee.js?body=1" for ::1 at 2015-04-26 15:17:33 -0500
+
+
+Started GET "/assets/custom-ee8182bcd24841406b32fb870ec8ac6b.css?body=1" for ::1 at 2015-04-26 15:17:33 -0500
+
+
+Started GET "/assets/application-9bf3fd4d670bb7ebb5c4ceb8a482c134.js?body=1" for ::1 at 2015-04-26 15:17:33 -0500
+
+
+Started GET "/" for ::1 at 2015-04-26 15:24:13 -0500
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (15.0ms)
+Completed 200 OK in 267ms (Views: 266.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-ee8182bcd24841406b32fb870ec8ac6b.css?body=1" for ::1 at 2015-04-26 15:24:14 -0500
+
+
+Started GET "/assets/map-c3ec9d650fc7685c4edc8fc7d5aa015b.css?body=1" for ::1 at 2015-04-26 15:24:14 -0500
+
+
+Started GET "/assets/application-cc6eeae6464c9d196666e5d451ce0dbd.css?body=1" for ::1 at 2015-04-26 15:24:14 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-26 15:24:14 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-26 15:24:14 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-26 15:24:14 -0500
+
+
+Started GET "/assets/application-9bf3fd4d670bb7ebb5c4ceb8a482c134.js?body=1" for ::1 at 2015-04-26 15:24:14 -0500
+
+
+Started GET "/assets/map-a89c48ec38ca916c8fb2e08fdee76eee.js?body=1" for ::1 at 2015-04-26 15:24:14 -0500
+
+
+Started GET "/" for ::1 at 2015-04-26 15:24:55 -0500
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (11.6ms)
+Completed 200 OK in 373ms (Views: 371.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-d58959bb18be522fb82302c4350b9dc2.css?body=1" for ::1 at 2015-04-26 15:24:56 -0500
+
+
+Started GET "/assets/map-0202c612d4d3f79cdff326ebcec8f3ce.css?body=1" for ::1 at 2015-04-26 15:24:56 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-26 15:24:56 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-26 15:24:56 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-26 15:24:56 -0500
+
+
+Started GET "/assets/map-a89c48ec38ca916c8fb2e08fdee76eee.js?body=1" for ::1 at 2015-04-26 15:24:56 -0500
+
+
+Started GET "/assets/application-9bf3fd4d670bb7ebb5c4ceb8a482c134.js?body=1" for ::1 at 2015-04-26 15:24:56 -0500
+
+
+Started GET "/assets/custom-ee8182bcd24841406b32fb870ec8ac6b.css?body=1" for ::1 at 2015-04-26 15:24:56 -0500
+
+
+Started GET "/" for ::1 at 2015-04-26 15:25:10 -0500
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (11.6ms)
+Completed 200 OK in 358ms (Views: 357.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-ee8182bcd24841406b32fb870ec8ac6b.css?body=1" for ::1 at 2015-04-26 15:25:10 -0500
+
+
+Started GET "/assets/application-af01707b8d8f90f669826b0ce4ce44a1.css?body=1" for ::1 at 2015-04-26 15:25:10 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-26 15:25:10 -0500
+
+
+Started GET "/assets/map-0c980674d0e0a8a9880e515ef7c20f7d.css?body=1" for ::1 at 2015-04-26 15:25:10 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-26 15:25:10 -0500
+
+
+Started GET "/assets/application-9bf3fd4d670bb7ebb5c4ceb8a482c134.js?body=1" for ::1 at 2015-04-26 15:25:10 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-26 15:25:10 -0500
+
+
+Started GET "/assets/map-a89c48ec38ca916c8fb2e08fdee76eee.js?body=1" for ::1 at 2015-04-26 15:25:10 -0500
+
+
+Started GET "/" for ::1 at 2015-04-26 15:28:02 -0500
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (12.5ms)
+Completed 200 OK in 342ms (Views: 340.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/map-af4bc8fee0dde28de745c89454725194.css?body=1" for ::1 at 2015-04-26 15:28:02 -0500
+
+
+Started GET "/assets/application-6abc80934e84b4df50dd1d1dd45b83de.css?body=1" for ::1 at 2015-04-26 15:28:02 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-26 15:28:03 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-26 15:28:03 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-26 15:28:03 -0500
+
+
+Started GET "/assets/map-a89c48ec38ca916c8fb2e08fdee76eee.js?body=1" for ::1 at 2015-04-26 15:28:03 -0500
+
+
+Started GET "/assets/custom-ee8182bcd24841406b32fb870ec8ac6b.css?body=1" for ::1 at 2015-04-26 15:28:03 -0500
+
+
+Started GET "/assets/application-9bf3fd4d670bb7ebb5c4ceb8a482c134.js?body=1" for ::1 at 2015-04-26 15:28:03 -0500
+
+
+Started GET "/" for ::1 at 2015-04-26 15:28:22 -0500
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (12.9ms)
+Completed 200 OK in 323ms (Views: 322.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-ee8182bcd24841406b32fb870ec8ac6b.css?body=1" for ::1 at 2015-04-26 15:28:23 -0500
+
+
+Started GET "/assets/application-edcf56cd80693f2164e6d5de2c2a8f15.css?body=1" for ::1 at 2015-04-26 15:28:23 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-26 15:28:23 -0500
+
+
+Started GET "/assets/map-a89c48ec38ca916c8fb2e08fdee76eee.js?body=1" for ::1 at 2015-04-26 15:28:23 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-26 15:28:23 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-26 15:28:23 -0500
+
+
+Started GET "/assets/application-9bf3fd4d670bb7ebb5c4ceb8a482c134.js?body=1" for ::1 at 2015-04-26 15:28:23 -0500
+
+
+Started GET "/assets/map-366e31407a3b754354baf375719270c2.css?body=1" for ::1 at 2015-04-26 15:28:23 -0500
+
+
+Started GET "/" for ::1 at 2015-04-26 15:28:51 -0500
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (13.3ms)
+Completed 200 OK in 261ms (Views: 259.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/map-366e31407a3b754354baf375719270c2.css?body=1" for ::1 at 2015-04-26 15:28:52 -0500
+
+
+Started GET "/assets/application-edcf56cd80693f2164e6d5de2c2a8f15.css?body=1" for ::1 at 2015-04-26 15:28:52 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-26 15:28:52 -0500
+
+
+Started GET "/assets/map-a89c48ec38ca916c8fb2e08fdee76eee.js?body=1" for ::1 at 2015-04-26 15:28:52 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-26 15:28:52 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-26 15:28:52 -0500
+
+
+Started GET "/assets/application-9bf3fd4d670bb7ebb5c4ceb8a482c134.js?body=1" for ::1 at 2015-04-26 15:28:52 -0500
+
+
+Started GET "/assets/custom-ee8182bcd24841406b32fb870ec8ac6b.css?body=1" for ::1 at 2015-04-26 15:28:52 -0500
+
+
+Started GET "/" for ::1 at 2015-04-26 15:28:59 -0500
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (12.7ms)
+Completed 200 OK in 127ms (Views: 126.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-ee8182bcd24841406b32fb870ec8ac6b.css?body=1" for ::1 at 2015-04-26 15:28:59 -0500
+
+
+Started GET "/assets/map-366e31407a3b754354baf375719270c2.css?body=1" for ::1 at 2015-04-26 15:28:59 -0500
+
+
+Started GET "/assets/application-edcf56cd80693f2164e6d5de2c2a8f15.css?body=1" for ::1 at 2015-04-26 15:28:59 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-26 15:28:59 -0500
+
+
+Started GET "/assets/map-a89c48ec38ca916c8fb2e08fdee76eee.js?body=1" for ::1 at 2015-04-26 15:29:00 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-26 15:29:00 -0500
+
+
+Started GET "/assets/application-9bf3fd4d670bb7ebb5c4ceb8a482c134.js?body=1" for ::1 at 2015-04-26 15:29:00 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-26 15:29:00 -0500
+
+
+Started GET "/" for ::1 at 2015-04-26 15:29:21 -0500
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (13.8ms)
+Completed 200 OK in 139ms (Views: 137.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-ee8182bcd24841406b32fb870ec8ac6b.css?body=1" for ::1 at 2015-04-26 15:29:21 -0500
+
+
+Started GET "/assets/map-366e31407a3b754354baf375719270c2.css?body=1" for ::1 at 2015-04-26 15:29:21 -0500
+
+
+Started GET "/assets/application-edcf56cd80693f2164e6d5de2c2a8f15.css?body=1" for ::1 at 2015-04-26 15:29:21 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-26 15:29:21 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-26 15:29:21 -0500
+
+
+Started GET "/assets/map-a89c48ec38ca916c8fb2e08fdee76eee.js?body=1" for ::1 at 2015-04-26 15:29:21 -0500
+
+
+Started GET "/assets/application-9bf3fd4d670bb7ebb5c4ceb8a482c134.js?body=1" for ::1 at 2015-04-26 15:29:21 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-26 15:29:21 -0500
+
+
+Started GET "/assets/custom-ee8182bcd24841406b32fb870ec8ac6b.css?body=1" for ::1 at 2015-04-26 15:29:30 -0500
+
+
+Started GET "/assets/application-edcf56cd80693f2164e6d5de2c2a8f15.css?body=1" for ::1 at 2015-04-26 15:29:30 -0500
+
+
+Started GET "/assets/map-366e31407a3b754354baf375719270c2.css?body=1" for ::1 at 2015-04-26 15:29:30 -0500
+
+
+Started GET "/" for ::1 at 2015-04-26 15:29:48 -0500
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (23.0ms)
+Completed 200 OK in 289ms (Views: 288.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/map-366e31407a3b754354baf375719270c2.css?body=1" for ::1 at 2015-04-26 15:29:49 -0500
+
+
+Started GET "/assets/application-edcf56cd80693f2164e6d5de2c2a8f15.css?body=1" for ::1 at 2015-04-26 15:29:49 -0500
+
+
+Started GET "/assets/custom-ee8182bcd24841406b32fb870ec8ac6b.css?body=1" for ::1 at 2015-04-26 15:29:49 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-26 15:29:49 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-26 15:29:49 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-26 15:29:49 -0500
+
+
+Started GET "/assets/application-9bf3fd4d670bb7ebb5c4ceb8a482c134.js?body=1" for ::1 at 2015-04-26 15:29:49 -0500
+
+
+Started GET "/assets/map-a89c48ec38ca916c8fb2e08fdee76eee.js?body=1" for ::1 at 2015-04-26 15:29:49 -0500
+
+
+Started GET "/" for ::1 at 2015-04-26 15:33:40 -0500
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (12.7ms)
+Completed 200 OK in 134ms (Views: 130.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/map-366e31407a3b754354baf375719270c2.css?body=1" for ::1 at 2015-04-26 15:33:41 -0500
+
+
+Started GET "/assets/application-edcf56cd80693f2164e6d5de2c2a8f15.css?body=1" for ::1 at 2015-04-26 15:33:41 -0500
+
+
+Started GET "/assets/application-9bf3fd4d670bb7ebb5c4ceb8a482c134.js?body=1" for ::1 at 2015-04-26 15:33:41 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-26 15:33:41 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-26 15:33:41 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-26 15:33:41 -0500
+
+
+Started GET "/assets/map-a89c48ec38ca916c8fb2e08fdee76eee.js?body=1" for ::1 at 2015-04-26 15:33:41 -0500
+
+
+Started GET "/assets/custom-ee8182bcd24841406b32fb870ec8ac6b.css?body=1" for ::1 at 2015-04-26 15:33:41 -0500
+
+
+Started GET "/" for ::1 at 2015-04-26 15:34:18 -0500
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (15.0ms)
+Completed 200 OK in 133ms (Views: 124.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/map-366e31407a3b754354baf375719270c2.css?body=1" for ::1 at 2015-04-26 15:34:19 -0500
+
+
+Started GET "/assets/application-edcf56cd80693f2164e6d5de2c2a8f15.css?body=1" for ::1 at 2015-04-26 15:34:19 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-26 15:34:19 -0500
+
+
+Started GET "/assets/map-a89c48ec38ca916c8fb2e08fdee76eee.js?body=1" for ::1 at 2015-04-26 15:34:19 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-26 15:34:19 -0500
+
+
+Started GET "/assets/application-9bf3fd4d670bb7ebb5c4ceb8a482c134.js?body=1" for ::1 at 2015-04-26 15:34:19 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-26 15:34:19 -0500
+
+
+Started GET "/assets/custom-ee8182bcd24841406b32fb870ec8ac6b.css?body=1" for ::1 at 2015-04-26 15:34:19 -0500
+
+
+Started GET "/" for ::1 at 2015-04-26 15:34:48 -0500
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (12.2ms)
+Completed 200 OK in 227ms (Views: 226.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-26 15:34:48 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-26 15:34:48 -0500
+
+
+Started GET "/assets/map-366e31407a3b754354baf375719270c2.css?body=1" for ::1 at 2015-04-26 15:34:48 -0500
+
+
+Started GET "/assets/application-edcf56cd80693f2164e6d5de2c2a8f15.css?body=1" for ::1 at 2015-04-26 15:34:48 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-26 15:34:48 -0500
+
+
+Started GET "/assets/map-a89c48ec38ca916c8fb2e08fdee76eee.js?body=1" for ::1 at 2015-04-26 15:34:48 -0500
+
+
+Started GET "/assets/application-9bf3fd4d670bb7ebb5c4ceb8a482c134.js?body=1" for ::1 at 2015-04-26 15:34:48 -0500
+
+
+Started GET "/assets/custom-ee8182bcd24841406b32fb870ec8ac6b.css?body=1" for ::1 at 2015-04-26 15:34:48 -0500
+
+
+Started GET "/" for ::1 at 2015-04-26 15:37:40 -0500
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (12.2ms)
+Completed 200 OK in 118ms (Views: 117.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-ee8182bcd24841406b32fb870ec8ac6b.css?body=1" for ::1 at 2015-04-26 15:37:41 -0500
+
+
+Started GET "/assets/map-366e31407a3b754354baf375719270c2.css?body=1" for ::1 at 2015-04-26 15:37:41 -0500
+
+
+Started GET "/assets/application-edcf56cd80693f2164e6d5de2c2a8f15.css?body=1" for ::1 at 2015-04-26 15:37:41 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-26 15:37:41 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-26 15:37:41 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-26 15:37:41 -0500
+
+
+Started GET "/assets/map-a89c48ec38ca916c8fb2e08fdee76eee.js?body=1" for ::1 at 2015-04-26 15:37:41 -0500
+
+
+Started GET "/assets/application-9bf3fd4d670bb7ebb5c4ceb8a482c134.js?body=1" for ::1 at 2015-04-26 15:37:41 -0500
+
+
+Started GET "/" for ::1 at 2015-04-26 15:37:56 -0500
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (12.9ms)
+Completed 200 OK in 224ms (Views: 223.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-ee8182bcd24841406b32fb870ec8ac6b.css?body=1" for ::1 at 2015-04-26 15:37:56 -0500
+
+
+Started GET "/assets/application-edcf56cd80693f2164e6d5de2c2a8f15.css?body=1" for ::1 at 2015-04-26 15:37:56 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-26 15:37:56 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-26 15:37:56 -0500
+
+
+Started GET "/assets/map-366e31407a3b754354baf375719270c2.css?body=1" for ::1 at 2015-04-26 15:37:56 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-26 15:37:56 -0500
+
+
+Started GET "/assets/application-9bf3fd4d670bb7ebb5c4ceb8a482c134.js?body=1" for ::1 at 2015-04-26 15:37:56 -0500
+
+
+Started GET "/assets/map-a89c48ec38ca916c8fb2e08fdee76eee.js?body=1" for ::1 at 2015-04-26 15:37:56 -0500
+
+
+Started GET "/" for ::1 at 2015-04-26 15:40:12 -0500
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (12.3ms)
+Completed 200 OK in 240ms (Views: 239.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/map-366e31407a3b754354baf375719270c2.css?body=1" for ::1 at 2015-04-26 15:40:12 -0500
+
+
+Started GET "/assets/application-edcf56cd80693f2164e6d5de2c2a8f15.css?body=1" for ::1 at 2015-04-26 15:40:12 -0500
+
+
+Started GET "/assets/application-9bf3fd4d670bb7ebb5c4ceb8a482c134.js?body=1" for ::1 at 2015-04-26 15:40:12 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-26 15:40:12 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-26 15:40:12 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-26 15:40:12 -0500
+
+
+Started GET "/assets/map-a89c48ec38ca916c8fb2e08fdee76eee.js?body=1" for ::1 at 2015-04-26 15:40:12 -0500
+
+
+Started GET "/assets/custom-ee8182bcd24841406b32fb870ec8ac6b.css?body=1" for ::1 at 2015-04-26 15:40:12 -0500
+
+
+Started GET "/" for ::1 at 2015-04-26 15:41:49 -0500
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (21.1ms)
+Completed 200 OK in 275ms (Views: 274.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/map-366e31407a3b754354baf375719270c2.css?body=1" for ::1 at 2015-04-26 15:41:49 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-26 15:41:49 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-26 15:41:49 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-26 15:41:49 -0500
+
+
+Started GET "/assets/application-9bf3fd4d670bb7ebb5c4ceb8a482c134.js?body=1" for ::1 at 2015-04-26 15:41:49 -0500
+
+
+Started GET "/assets/application-edcf56cd80693f2164e6d5de2c2a8f15.css?body=1" for ::1 at 2015-04-26 15:41:49 -0500
+
+
+Started GET "/assets/map-a89c48ec38ca916c8fb2e08fdee76eee.js?body=1" for ::1 at 2015-04-26 15:41:49 -0500
+
+
+Started GET "/assets/custom-ee8182bcd24841406b32fb870ec8ac6b.css?body=1" for ::1 at 2015-04-26 15:41:49 -0500
+
+
+Started GET "/" for ::1 at 2015-04-26 15:42:23 -0500
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (12.9ms)
+Completed 200 OK in 217ms (Views: 215.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-edcf56cd80693f2164e6d5de2c2a8f15.css?body=1" for ::1 at 2015-04-26 15:42:23 -0500
+
+
+Started GET "/assets/map-366e31407a3b754354baf375719270c2.css?body=1" for ::1 at 2015-04-26 15:42:23 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-26 15:42:23 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-26 15:42:24 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-26 15:42:24 -0500
+
+
+Started GET "/assets/map-a89c48ec38ca916c8fb2e08fdee76eee.js?body=1" for ::1 at 2015-04-26 15:42:24 -0500
+
+
+Started GET "/assets/application-9bf3fd4d670bb7ebb5c4ceb8a482c134.js?body=1" for ::1 at 2015-04-26 15:42:24 -0500
+
+
+Started GET "/assets/custom-ee8182bcd24841406b32fb870ec8ac6b.css?body=1" for ::1 at 2015-04-26 15:42:24 -0500
+
+
+Started GET "/" for ::1 at 2015-04-26 15:44:11 -0500
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (12.9ms)
+Completed 200 OK in 209ms (Views: 208.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/map-366e31407a3b754354baf375719270c2.css?body=1" for ::1 at 2015-04-26 15:44:12 -0500
+
+
+Started GET "/assets/application-edcf56cd80693f2164e6d5de2c2a8f15.css?body=1" for ::1 at 2015-04-26 15:44:12 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-26 15:44:12 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-26 15:44:12 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-26 15:44:12 -0500
+
+
+Started GET "/assets/map-a89c48ec38ca916c8fb2e08fdee76eee.js?body=1" for ::1 at 2015-04-26 15:44:12 -0500
+
+
+Started GET "/assets/application-9bf3fd4d670bb7ebb5c4ceb8a482c134.js?body=1" for ::1 at 2015-04-26 15:44:12 -0500
+
+
+Started GET "/assets/custom-ee8182bcd24841406b32fb870ec8ac6b.css?body=1" for ::1 at 2015-04-26 15:44:12 -0500
+
+
+Started GET "/assets/map-366e31407a3b754354baf375719270c2.css?body=1" for ::1 at 2015-04-26 15:44:43 -0500
+
+
+Started GET "/assets/custom-ee8182bcd24841406b32fb870ec8ac6b.css?body=1" for ::1 at 2015-04-26 15:44:43 -0500
+
+
+Started GET "/assets/application-edcf56cd80693f2164e6d5de2c2a8f15.css?body=1" for ::1 at 2015-04-26 15:44:43 -0500
+
+
+Started GET "/" for ::1 at 2015-04-26 15:44:58 -0500
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (14.3ms)
+Completed 200 OK in 140ms (Views: 138.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-ee8182bcd24841406b32fb870ec8ac6b.css?body=1" for ::1 at 2015-04-26 15:44:59 -0500
+
+
+Started GET "/assets/map-366e31407a3b754354baf375719270c2.css?body=1" for ::1 at 2015-04-26 15:44:59 -0500
+
+
+Started GET "/assets/application-edcf56cd80693f2164e6d5de2c2a8f15.css?body=1" for ::1 at 2015-04-26 15:44:59 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-26 15:44:59 -0500
+
+
+Started GET "/assets/map-a89c48ec38ca916c8fb2e08fdee76eee.js?body=1" for ::1 at 2015-04-26 15:44:59 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-26 15:44:59 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-26 15:44:59 -0500
+
+
+Started GET "/assets/application-9bf3fd4d670bb7ebb5c4ceb8a482c134.js?body=1" for ::1 at 2015-04-26 15:44:59 -0500
+
+
+Started GET "/" for ::1 at 2015-04-26 15:50:17 -0500
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (12.6ms)
+Completed 200 OK in 233ms (Views: 231.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-26 15:50:18 -0500
+
+
+Started GET "/assets/map-366e31407a3b754354baf375719270c2.css?body=1" for ::1 at 2015-04-26 15:50:18 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-26 15:50:18 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-26 15:50:18 -0500
+
+
+Started GET "/assets/custom-ee8182bcd24841406b32fb870ec8ac6b.css?body=1" for ::1 at 2015-04-26 15:50:18 -0500
+
+
+Started GET "/assets/application-9bf3fd4d670bb7ebb5c4ceb8a482c134.js?body=1" for ::1 at 2015-04-26 15:50:18 -0500
+
+
+Started GET "/assets/map-a89c48ec38ca916c8fb2e08fdee76eee.js?body=1" for ::1 at 2015-04-26 15:50:18 -0500
+
+
+Started GET "/assets/application-edcf56cd80693f2164e6d5de2c2a8f15.css?body=1" for ::1 at 2015-04-26 15:50:18 -0500
+
+
+Started GET "/" for ::1 at 2015-04-26 15:52:37 -0500
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (13.1ms)
+Completed 200 OK in 117ms (Views: 114.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-ee8182bcd24841406b32fb870ec8ac6b.css?body=1" for ::1 at 2015-04-26 15:52:37 -0500
+
+
+Started GET "/assets/map-366e31407a3b754354baf375719270c2.css?body=1" for ::1 at 2015-04-26 15:52:37 -0500
+
+
+Started GET "/assets/application-edcf56cd80693f2164e6d5de2c2a8f15.css?body=1" for ::1 at 2015-04-26 15:52:37 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-26 15:52:37 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-26 15:52:37 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-26 15:52:37 -0500
+
+
+Started GET "/assets/map-a89c48ec38ca916c8fb2e08fdee76eee.js?body=1" for ::1 at 2015-04-26 15:52:37 -0500
+
+
+Started GET "/assets/application-9bf3fd4d670bb7ebb5c4ceb8a482c134.js?body=1" for ::1 at 2015-04-26 15:52:37 -0500
+
+
+Started GET "/" for ::1 at 2015-04-26 15:54:09 -0500
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (13.4ms)
+Completed 200 OK in 115ms (Views: 114.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-ee8182bcd24841406b32fb870ec8ac6b.css?body=1" for ::1 at 2015-04-26 15:54:09 -0500
+
+
+Started GET "/assets/map-366e31407a3b754354baf375719270c2.css?body=1" for ::1 at 2015-04-26 15:54:09 -0500
+
+
+Started GET "/assets/application-edcf56cd80693f2164e6d5de2c2a8f15.css?body=1" for ::1 at 2015-04-26 15:54:09 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-26 15:54:09 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-26 15:54:09 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-26 15:54:09 -0500
+
+
+Started GET "/assets/application-9bf3fd4d670bb7ebb5c4ceb8a482c134.js?body=1" for ::1 at 2015-04-26 15:54:09 -0500
+
+
+Started GET "/assets/map-a89c48ec38ca916c8fb2e08fdee76eee.js?body=1" for ::1 at 2015-04-26 15:54:10 -0500
+
+
+Started GET "/" for ::1 at 2015-04-26 15:54:32 -0500
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (11.2ms)
+Completed 200 OK in 508ms (Views: 507.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-761e0ec7ed7401b5c23202cb708611d7.css?body=1" for ::1 at 2015-04-26 15:54:33 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-26 15:54:33 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-26 15:54:33 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-26 15:54:33 -0500
+
+
+Started GET "/assets/map-499a6e61d15f6c1c9f5fbd32d547038a.css?body=1" for ::1 at 2015-04-26 15:54:33 -0500
+
+
+Started GET "/assets/map-a89c48ec38ca916c8fb2e08fdee76eee.js?body=1" for ::1 at 2015-04-26 15:54:33 -0500
+
+
+Started GET "/assets/application-9bf3fd4d670bb7ebb5c4ceb8a482c134.js?body=1" for ::1 at 2015-04-26 15:54:33 -0500
+
+
+Started GET "/assets/custom-ee8182bcd24841406b32fb870ec8ac6b.css?body=1" for ::1 at 2015-04-26 15:54:33 -0500
+
+
+Started GET "/" for ::1 at 2015-04-26 15:55:24 -0500
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (13.4ms)
+Completed 200 OK in 121ms (Views: 119.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-ee8182bcd24841406b32fb870ec8ac6b.css?body=1" for ::1 at 2015-04-26 15:55:24 -0500
+
+
+Started GET "/assets/application-761e0ec7ed7401b5c23202cb708611d7.css?body=1" for ::1 at 2015-04-26 15:55:24 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-26 15:55:24 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-26 15:55:24 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-26 15:55:24 -0500
+
+
+Started GET "/assets/map-a89c48ec38ca916c8fb2e08fdee76eee.js?body=1" for ::1 at 2015-04-26 15:55:24 -0500
+
+
+Started GET "/assets/map-499a6e61d15f6c1c9f5fbd32d547038a.css?body=1" for ::1 at 2015-04-26 15:55:24 -0500
+
+
+Started GET "/assets/application-9bf3fd4d670bb7ebb5c4ceb8a482c134.js?body=1" for ::1 at 2015-04-26 15:55:24 -0500
+
+
+Started GET "/" for ::1 at 2015-04-26 20:56:54 -0500
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (71.9ms)
+Completed 500 Internal Server Error in 502ms
+
+ActionView::Template::Error (Invalid CSS after "...-family: 'Lato'": expected "{", was ";"
+  (in /Users/jamesirwin/Documents/side_projects/TODtalk/app/assets/stylesheets/custom.css.scss:5)):
+    2: <html>
+    3: <head>
+    4:   <title>TodTalk</title>
+    5:   <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+    6:   <script src='https://api.tiles.mapbox.com/mapbox.js/v2.1.5/mapbox.js'></script>
+    7:   <script src='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-locatecontrol/v0.24.0/L.Control.Locate.js'></script>
+    8:   <link href='http://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+  app/assets/stylesheets/custom.css.scss:5
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb__327448396939402482_70248415626220'
+
+
+  Rendered /Users/jamesirwin/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (17.9ms)
+  Rendered /Users/jamesirwin/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (5.8ms)
+  Rendered /Users/jamesirwin/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.5ms)
+  Rendered /Users/jamesirwin/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (59.1ms)
+  Rendered /Users/jamesirwin/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/_markup.html.erb (0.7ms)
+  Rendered /Users/jamesirwin/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.6ms)
+  Rendered /Users/jamesirwin/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /Users/jamesirwin/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.6ms)
+  Rendered /Users/jamesirwin/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/console.js.erb within layouts/javascript (38.6ms)
+  Rendered /Users/jamesirwin/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/main.js.erb within layouts/javascript (1.6ms)
+  Rendered /Users/jamesirwin/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.7ms)
+  Rendered /Users/jamesirwin/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/web-console-2.1.2/lib/web_console/templates/index.html.erb (366.7ms)
+
+
+Started GET "/" for ::1 at 2015-04-26 20:57:17 -0500
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (11.5ms)
+Completed 200 OK in 5562ms (Views: 5560.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-733bd353e776f6be92746640d26a159f.css?body=1" for ::1 at 2015-04-26 20:57:22 -0500
+
+
+Started GET "/assets/custom-ee8182bcd24841406b32fb870ec8ac6b.css?body=1" for ::1 at 2015-04-26 20:57:22 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-26 20:57:23 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-26 20:57:23 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-26 20:57:23 -0500
+
+
+Started GET "/assets/map-8560432497e03381900f4da111162df6.css?body=1" for ::1 at 2015-04-26 20:57:23 -0500
+
+
+Started GET "/assets/application-9bf3fd4d670bb7ebb5c4ceb8a482c134.js?body=1" for ::1 at 2015-04-26 20:57:23 -0500
+
+
+Started GET "/assets/map-a89c48ec38ca916c8fb2e08fdee76eee.js?body=1" for ::1 at 2015-04-26 20:57:23 -0500
+
+
+Started GET "/" for ::1 at 2015-04-26 20:58:19 -0500
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (12.2ms)
+Completed 200 OK in 456ms (Views: 455.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-ee8182bcd24841406b32fb870ec8ac6b.css?body=1" for ::1 at 2015-04-26 20:58:20 -0500
+
+
+Started GET "/assets/application-1bd0ea804c521e056408deecd3157fdb.css?body=1" for ::1 at 2015-04-26 20:58:20 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-26 20:58:20 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-26 20:58:20 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-26 20:58:20 -0500
+
+
+Started GET "/assets/map-a89c48ec38ca916c8fb2e08fdee76eee.js?body=1" for ::1 at 2015-04-26 20:58:20 -0500
+
+
+Started GET "/assets/application-9bf3fd4d670bb7ebb5c4ceb8a482c134.js?body=1" for ::1 at 2015-04-26 20:58:20 -0500
+
+
+Started GET "/assets/map-3fa79f2542aadfc45d99fe1644432385.css?body=1" for ::1 at 2015-04-26 20:58:20 -0500
+
+
+Started GET "/" for ::1 at 2015-04-26 20:58:39 -0500
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (12.1ms)
+Completed 200 OK in 271ms (Views: 270.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-ee8182bcd24841406b32fb870ec8ac6b.css?body=1" for ::1 at 2015-04-26 20:58:39 -0500
+
+
+Started GET "/assets/application-5afe7e9e8408a12a219776b6de31f90b.css?body=1" for ::1 at 2015-04-26 20:58:39 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-26 20:58:40 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-26 20:58:40 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-26 20:58:40 -0500
+
+
+Started GET "/assets/map-a89c48ec38ca916c8fb2e08fdee76eee.js?body=1" for ::1 at 2015-04-26 20:58:40 -0500
+
+
+Started GET "/assets/map-136966a4f93008785e6f10351a702640.css?body=1" for ::1 at 2015-04-26 20:58:40 -0500
+
+
+Started GET "/assets/application-9bf3fd4d670bb7ebb5c4ceb8a482c134.js?body=1" for ::1 at 2015-04-26 20:58:40 -0500
+
+
+Started GET "/" for ::1 at 2015-04-26 20:59:31 -0500
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (12.1ms)
+Completed 200 OK in 264ms (Views: 262.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/map-d82bfdd3e5339f6e747d29a03d0cdfcc.css?body=1" for ::1 at 2015-04-26 20:59:32 -0500
+
+
+Started GET "/assets/application-0aba6b4e14f74e8531bdd5fe431379db.css?body=1" for ::1 at 2015-04-26 20:59:32 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-26 20:59:32 -0500
+
+
+Started GET "/assets/application-9bf3fd4d670bb7ebb5c4ceb8a482c134.js?body=1" for ::1 at 2015-04-26 20:59:32 -0500
+
+
+Started GET "/assets/map-a89c48ec38ca916c8fb2e08fdee76eee.js?body=1" for ::1 at 2015-04-26 20:59:32 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-26 20:59:32 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-26 20:59:32 -0500
+
+
+Started GET "/assets/custom-ee8182bcd24841406b32fb870ec8ac6b.css?body=1" for ::1 at 2015-04-26 20:59:32 -0500
+
+
+Started GET "/" for ::1 at 2015-04-26 20:59:50 -0500
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (11.6ms)
+Completed 200 OK in 423ms (Views: 422.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-ee8182bcd24841406b32fb870ec8ac6b.css?body=1" for ::1 at 2015-04-26 20:59:51 -0500
+
+
+Started GET "/assets/map-0d1ca0658cb6e4fbf67852b265b1a5ff.css?body=1" for ::1 at 2015-04-26 20:59:51 -0500
+
+
+Started GET "/assets/application-991e5762d6dd5a1fbcc6fd611e26320a.css?body=1" for ::1 at 2015-04-26 20:59:51 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-26 20:59:51 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-26 20:59:51 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-26 20:59:51 -0500
+
+
+Started GET "/assets/map-a89c48ec38ca916c8fb2e08fdee76eee.js?body=1" for ::1 at 2015-04-26 20:59:51 -0500
+
+
+Started GET "/assets/application-9bf3fd4d670bb7ebb5c4ceb8a482c134.js?body=1" for ::1 at 2015-04-26 20:59:51 -0500
+
+
+Started GET "/" for ::1 at 2015-04-26 21:00:18 -0500
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (11.4ms)
+Completed 200 OK in 264ms (Views: 262.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-ee8182bcd24841406b32fb870ec8ac6b.css?body=1" for ::1 at 2015-04-26 21:00:18 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-26 21:00:18 -0500
+
+
+Started GET "/assets/application-9bf3fd4d670bb7ebb5c4ceb8a482c134.js?body=1" for ::1 at 2015-04-26 21:00:18 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-26 21:00:18 -0500
+
+
+Started GET "/assets/map-d7e3c852ba31a249113974f2293bc7e9.css?body=1" for ::1 at 2015-04-26 21:00:19 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-26 21:00:19 -0500
+
+
+Started GET "/assets/application-440376b4f46d7a1edb58d42be1ad12c2.css?body=1" for ::1 at 2015-04-26 21:00:19 -0500
+
+
+Started GET "/assets/map-a89c48ec38ca916c8fb2e08fdee76eee.js?body=1" for ::1 at 2015-04-26 21:00:19 -0500
+
+
+Started GET "/" for ::1 at 2015-04-26 21:01:06 -0500
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (11.6ms)
+Completed 200 OK in 249ms (Views: 248.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/map-d7e3c852ba31a249113974f2293bc7e9.css?body=1" for ::1 at 2015-04-26 21:01:07 -0500
+
+
+Started GET "/assets/application-440376b4f46d7a1edb58d42be1ad12c2.css?body=1" for ::1 at 2015-04-26 21:01:07 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-26 21:01:07 -0500
+
+
+Started GET "/assets/custom-ee8182bcd24841406b32fb870ec8ac6b.css?body=1" for ::1 at 2015-04-26 21:01:07 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-26 21:01:07 -0500
+
+
+Started GET "/assets/map-a89c48ec38ca916c8fb2e08fdee76eee.js?body=1" for ::1 at 2015-04-26 21:01:07 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-26 21:01:07 -0500
+
+
+Started GET "/assets/application-9bf3fd4d670bb7ebb5c4ceb8a482c134.js?body=1" for ::1 at 2015-04-26 21:01:07 -0500
+
+
+Started GET "/assets/custom-ee8182bcd24841406b32fb870ec8ac6b.css?body=1" for ::1 at 2015-04-26 21:01:14 -0500
+
+
+Started GET "/assets/application-440376b4f46d7a1edb58d42be1ad12c2.css?body=1" for ::1 at 2015-04-26 21:01:14 -0500
+
+
+Started GET "/assets/map-d7e3c852ba31a249113974f2293bc7e9.css?body=1" for ::1 at 2015-04-26 21:01:14 -0500
+
+
+Started GET "/" for ::1 at 2015-04-26 21:02:11 -0500
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (14.2ms)
+Completed 200 OK in 301ms (Views: 300.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/map-a04d29c4fcb7c240be2d33f3292658fc.css?body=1" for ::1 at 2015-04-26 21:02:12 -0500
+
+
+Started GET "/assets/custom-ee8182bcd24841406b32fb870ec8ac6b.css?body=1" for ::1 at 2015-04-26 21:02:12 -0500
+
+
+Started GET "/assets/application-5a872e8ca3e396bff47804711270b3fb.css?body=1" for ::1 at 2015-04-26 21:02:12 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-26 21:02:12 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-26 21:02:12 -0500
+
+
+Started GET "/assets/map-a89c48ec38ca916c8fb2e08fdee76eee.js?body=1" for ::1 at 2015-04-26 21:02:12 -0500
+
+
+Started GET "/assets/application-9bf3fd4d670bb7ebb5c4ceb8a482c134.js?body=1" for ::1 at 2015-04-26 21:02:12 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-26 21:02:12 -0500
+
+
+Started GET "/" for ::1 at 2015-04-26 21:03:04 -0500
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (13.9ms)
+Completed 200 OK in 332ms (Views: 331.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-5a872e8ca3e396bff47804711270b3fb.css?body=1" for ::1 at 2015-04-26 21:03:06 -0500
+
+
+Started GET "/assets/map-a04d29c4fcb7c240be2d33f3292658fc.css?body=1" for ::1 at 2015-04-26 21:03:06 -0500
+
+
+Started GET "/assets/custom-ee8182bcd24841406b32fb870ec8ac6b.css?body=1" for ::1 at 2015-04-26 21:03:06 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-26 21:03:06 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-26 21:03:06 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-26 21:03:06 -0500
+
+
+Started GET "/assets/map-a89c48ec38ca916c8fb2e08fdee76eee.js?body=1" for ::1 at 2015-04-26 21:03:06 -0500
+
+
+Started GET "/assets/application-9bf3fd4d670bb7ebb5c4ceb8a482c134.js?body=1" for ::1 at 2015-04-26 21:03:06 -0500
+
+
+Started GET "/" for ::1 at 2015-04-26 21:03:20 -0500
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (12.0ms)
+Completed 200 OK in 274ms (Views: 273.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-ee8182bcd24841406b32fb870ec8ac6b.css?body=1" for ::1 at 2015-04-26 21:03:21 -0500
+
+
+Started GET "/assets/application-70bf50bb1f78746f4560bd9d9fe36659.css?body=1" for ::1 at 2015-04-26 21:03:21 -0500
+
+
+Started GET "/assets/map-a9e570a1b3b3a78a57a33b98c733da61.css?body=1" for ::1 at 2015-04-26 21:03:21 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-26 21:03:21 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-26 21:03:21 -0500
+
+
+Started GET "/assets/application-9bf3fd4d670bb7ebb5c4ceb8a482c134.js?body=1" for ::1 at 2015-04-26 21:03:21 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-26 21:03:21 -0500
+
+
+Started GET "/assets/map-a89c48ec38ca916c8fb2e08fdee76eee.js?body=1" for ::1 at 2015-04-26 21:03:21 -0500
+
+
+Started GET "/" for ::1 at 2015-04-26 21:06:03 -0500
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (16.3ms)
+Completed 200 OK in 288ms (Views: 287.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-ee8182bcd24841406b32fb870ec8ac6b.css?body=1" for ::1 at 2015-04-26 21:06:04 -0500
+
+
+Started GET "/assets/map-7bfb30437f32d2975ccb6ef695ae2836.css?body=1" for ::1 at 2015-04-26 21:06:04 -0500
+
+
+Started GET "/assets/application-95f28a7cabbe4d51097460f2aca40655.css?body=1" for ::1 at 2015-04-26 21:06:04 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-26 21:06:04 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-26 21:06:04 -0500
+
+
+Started GET "/assets/map-a89c48ec38ca916c8fb2e08fdee76eee.js?body=1" for ::1 at 2015-04-26 21:06:04 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-26 21:06:04 -0500
+
+
+Started GET "/assets/application-9bf3fd4d670bb7ebb5c4ceb8a482c134.js?body=1" for ::1 at 2015-04-26 21:06:04 -0500
+
+
+Started GET "/" for ::1 at 2015-04-26 21:08:26 -0500
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (13.7ms)
+Completed 200 OK in 399ms (Views: 398.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-0713caf78f6a9e5dd30e30242cec8cd1.css?body=1" for ::1 at 2015-04-26 21:08:27 -0500
+
+
+Started GET "/assets/custom-ee8182bcd24841406b32fb870ec8ac6b.css?body=1" for ::1 at 2015-04-26 21:08:28 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-26 21:08:28 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-26 21:08:28 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-26 21:08:28 -0500
+
+
+Started GET "/assets/map-24113618024330e940062a07a7e35cc1.css?body=1" for ::1 at 2015-04-26 21:08:28 -0500
+
+
+Started GET "/assets/map-a89c48ec38ca916c8fb2e08fdee76eee.js?body=1" for ::1 at 2015-04-26 21:08:28 -0500
+
+
+Started GET "/assets/application-9bf3fd4d670bb7ebb5c4ceb8a482c134.js?body=1" for ::1 at 2015-04-26 21:08:28 -0500
+
+
+Started GET "/" for ::1 at 2015-04-26 21:09:11 -0500
+Processing by PostitsController#map as HTML
+  Rendered postits/map.html.erb within layouts/application (14.3ms)
+Completed 200 OK in 296ms (Views: 294.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-ee8182bcd24841406b32fb870ec8ac6b.css?body=1" for ::1 at 2015-04-26 21:09:12 -0500
+
+
+Started GET "/assets/application-a488dc5f3e44ee4dbe54cc70f6e4fbc9.css?body=1" for ::1 at 2015-04-26 21:09:12 -0500
+
+
+Started GET "/assets/map-20802c66f3e2a7405f3a7aba4ed252b3.css?body=1" for ::1 at 2015-04-26 21:09:12 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-26 21:09:12 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-26 21:09:12 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-26 21:09:12 -0500
+
+
+Started GET "/assets/map-a89c48ec38ca916c8fb2e08fdee76eee.js?body=1" for ::1 at 2015-04-26 21:09:12 -0500
+
+
+Started GET "/assets/application-9bf3fd4d670bb7ebb5c4ceb8a482c134.js?body=1" for ::1 at 2015-04-26 21:09:12 -0500

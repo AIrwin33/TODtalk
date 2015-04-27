@@ -1,17 +1,22 @@
-<p>Hello, World</p>
-<div id="map"></div>
+<div class="container">
+	<div class="col-md-6 col-md-offset-3" id="header">
+		<h3>TOD Talk</h3>
+	</div>
+	<div class="col-md-8 col-md-offset-2" id="intro">
+		<p>On March 23, 2015 Center for Neighborhood Technology's Young Innovators associate board convened a discussion about transit-oriented development and the many perspectives that emerge across generations. A panel of three experts discussed the state of TOD in Chicago and offered their personal view on the issue. Following the panel, we allowed guests to provide feedback on what they would like to see in and around transit-sheds. We created this interactive map to document the evening.</p>
+	</div>
+	<div class="row">
+		<div class="col-md-6" id="map">
+			<%= javascript_include_tag 'map' %>
+		</div>
 
-<script type="text/javascript">
-
-$(document).ready(function(){
-
-	L.mapbox.accessToken = 'pk.eyJ1IjoiYWlyd2luMzMiLCJhIjoiLTJOUnFoOCJ9.i3f8IJ93mGkh9BCiULG53w';
-
-	var map = L.mapbox.map('map', 'airwin33.lna4fkd1').locate({setView: true, maxZoom: 14});
-
-
-
-
-
-});
-</script>
+		<div class="col-md-3 col-md-offset-1" id="toggle">
+			<p>here is the toggle</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-sm-6" id="desc">
+		<p>Heres where a description can go that is relevant to the feedback.</p>
+		</div>
+	</div>
+</div>
